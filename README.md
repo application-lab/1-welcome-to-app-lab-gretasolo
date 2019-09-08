@@ -1,23 +1,11 @@
 # Assignment 1: Welcome to App Lab
 Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hallo! My name is Greta. I’m from Lincoln, Nebraska, but currently live in Shanghai, China. I’m a senior studying Interactive Media & Business as well as Social Science. This past school year I was in Berlin in the fall and New York in the spring/summer. 
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+In Berlin I spent a lot of time exploring the art scene and made my first physical installation for a show in December. I also worked a lot with the Clive Davis students learning how to use a modular synth and music production software. In New York I was meeting all sorts of people and took an ITP class called Sound in Space where I made an 16 channel audio piece using Tone.js that I got to perform at a venue called Future Space. Then, I spent the summer in Brooklyn researching the relationship between artificial and collective intelligence at Governance Lab. 
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
-
+In my free time I love talking to people, sailing, biking, organizing innovative social events, and trying out new creative projects. Overall, I’m really interested in the intersection between different disciplines. As I continue my studies I hope to learn about varieties of subject areas and types of information that mutually benefit from collaborating with one another but are often kept separate. I’m really curious about the mechanisms working against different disciplines from communicating. 
 
 
 
